@@ -2,5 +2,5 @@
 layout: slide
 tittle: "Welcome to ours second slide!"
 ---
-Hola
+Hola Pedro
 Use the left arrow to go back!
